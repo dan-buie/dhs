@@ -105,7 +105,7 @@ main .form form fieldset fieldset {
 
 main .form .field-description {
     color: var(--form-label-color);
-    font-size: var(--form-font-size-xs);
+    font-size: var(--form-font-size-s);
 }
 
 main .form form .field-invalid .field-description {

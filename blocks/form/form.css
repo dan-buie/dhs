@@ -32,7 +32,7 @@
     --form-fieldset-border: 0;
     --form-fieldset-marign: 0;
     --form-fieldset-columns: 1;
-    --form-fieldset-legend-color: var(--form-label-color);
+    --form-fieldset-legend-color: black;
     --form-fieldset-legend-font-size: var(--form-font-size-m);
     --form-fieldset-legend-font-weight: var(--form-title-font-weight);
     --form-fieldset-legend-border: none;
